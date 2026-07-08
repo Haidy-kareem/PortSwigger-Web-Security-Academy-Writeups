@@ -1,6 +1,7 @@
 # Cross-Site Scripting (XSS)
 
 This folder contains my write-ups for XSS labs from PortSwigger Web Security Academy.
+The included write-ups cover the labs that I found most useful for understanding XSS concepts, browser behavior, and filter bypass techniques.
 
 ## Covered Concepts
 
