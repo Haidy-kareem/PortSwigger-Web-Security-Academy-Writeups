@@ -19,4 +19,4 @@ This folder contains my write-ups for XSS labs from PortSwigger Web Security Aca
 - [Reflected XSS in canonical link tag](./reflected-xss-canonical-link.md)
 - [Stored XSS into onclick Event with Angle Brackets and Double Quotes HTML-Encoded and Single Quotes and Backslash Escaped](./stored-xss-onclick-event.md)
 - [Reflected XSS into HTML context with most tags and attributes blocked](./reflected-xss-tag-filter-bypass.md)
-- [Reflected XSS with event handlers and href attributes blocked](./reflected-xss-svg-bypass.md)
+- [Reflected XSS with event handlers and href attributes blocked](./reflected-xss-event-handlers-href-blocked.md)
