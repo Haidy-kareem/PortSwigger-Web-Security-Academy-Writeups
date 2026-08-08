@@ -13,8 +13,8 @@ escalation techniques, and bypass methods.
 - Referer-based access control bypass
 
 ## Write-ups
+- Lab: Referer-based access control
+- Lab: Multi-step process with no access control on one step
 - Lab: URL-based access control can be circumvented
 - Lab: Method-based access control can be circumvented
 - Lab: Insecure direct object references
-- Lab: Multi-step process with no access control on one step
-- Lab: Referer-based access control
