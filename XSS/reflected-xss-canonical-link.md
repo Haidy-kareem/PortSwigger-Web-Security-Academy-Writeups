@@ -110,25 +110,4 @@ accesskey="x"
 /?%27accesskey=%27x%27onclick=%27alert(1)
 ```
 
----
 
-# Lessons Learned
-
-- Always identify **where** the reflection occurs before crafting a payload.
-- **View Page Source** and **Inspect** serve different purposes.
-- Never assume attributes use double quotes; always verify the actual HTML.
-- Attribute Context XSS requires understanding how the HTML parser interprets injected characters.
-- Browser-specific behavior can make an exploit work in one browser but not another.
-- The lab hint often reveals the intended exploitation technique (here, the keyboard shortcut hinted at `accesskey`).
-
----
-
-# Key Takeaways
-
-- Reflection Point → Query String
-- Context → HTML Attribute
-- Attribute Delimiter → Single Quote (`'`)
-- Injection Type → Attribute Injection
-- Trigger → `accesskey`
-- Executed Event → `onclick`
-- Browser Requirement → Google Chrome
